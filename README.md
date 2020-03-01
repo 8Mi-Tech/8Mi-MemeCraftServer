@@ -1,6 +1,8 @@
 # HomoCraftServer
 
 ![](http://114514.cn/yjsp.jpeg)<br>
+GitHub信息：![GitHub](https://img.shields.io/github/license/8MiYile/HomoCraftServer),![GitHub issues](https://img.shields.io/github/issues-raw/8MiYile/HomoCraftServer),![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/8MiYile/HomoCraftServer)
+<br>
 HomoCraftServer，ああああああああああああああああああああああああああああああああああああああ<br>
 114514,1919810<br>
 这么臭的CatServer端有谁要用吗，化粪池，请<br>

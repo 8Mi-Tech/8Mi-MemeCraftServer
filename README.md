@@ -1,10 +1,11 @@
 # HomoCraftServer
 
-![](http://114514.cn/yjsp.jpeg)<br>
+![](http://114514.cn/yjsp.jpeg),![1919810](https://www.khjxiaogu.com/1919810.png)<br>
 GitHub信息：![GitHub](https://img.shields.io/github/license/8MiYile/HomoCraftServer),![GitHub issues](https://img.shields.io/github/issues-raw/8MiYile/HomoCraftServer),![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/8MiYile/HomoCraftServer)
 <br>
 HomoCraftServer，ああああああああああああああああああああああああああああああああああああああ<br>
 114514,1919810<br>
+这么臭的搜狗输入法怕不是从粪坑里面捡的吧，丢化粪池，请（无慈悲）<br>
 这么臭的CatServer端有谁要用吗，化粪池，请<br>
 三天之内sa了腻，把你骨灰都给你扬喽<br>
 我们的官网是：http://114514.cn<br>

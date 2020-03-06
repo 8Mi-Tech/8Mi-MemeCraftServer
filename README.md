@@ -3,8 +3,8 @@
 ![](http://114514.cn/yjsp.jpeg)    
 GitHub信息：![GitHub](https://img.shields.io/github/license/8MiYile/HomoCraftServer),![GitHub issues](https://img.shields.io/github/issues-raw/8MiYile/HomoCraftServer),![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/8MiYile/HomoCraftServer)
     
-HomoCraftServer，ああああああああああああああああああああああああああああああああああああああ<br>
-服务端版本1.14.5-R1.4-1919810-SNAPSHOT    
+服务端版本:![HomoCraftServer-Version](https://img.shields.io/badge/Version-1.14.5--R1.4--1919810--SNAPSHOT-yellowgreen)
+HomoCraftServer，ああああああああああああああああああああああああああああああああああああああ<br>    
 这么臭的CatServer端有谁要用吗，化粪池，请   
 ![把你骨灰都给你扬喽](https://res.khjxiaogu.com/bonemealfly.gif)    
 三天之内sa了腻，把你骨灰都给你扬喽    

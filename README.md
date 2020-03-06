@@ -20,3 +20,8 @@ GK,NMLGB<br>
 ![搜狗输入法v19.19.8.10](http://res.khjxiaogu.com/1919810.png)    
 这么臭的搜狗输入法怕不是从粪坑里面捡的吧，丢化粪池，请（无慈悲）    
 ![先辈的首肯](https://res.khjxiaogu.com/tensyo.gif)    
+***
+友情链接: <br>
+CumServerPro: https://mcumbrella.github.io/CumServerProWebsite/
+***
+Copyright © 2017-2020 8Mi-Tech. All right reserved

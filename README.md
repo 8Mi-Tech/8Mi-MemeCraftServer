@@ -21,7 +21,8 @@ GK,NMLGB<br>
 这么臭的搜狗输入法怕不是从粪坑里面捡的吧，丢化粪池，请（无慈悲）    
 ![先辈的首肯](https://res.khjxiaogu.com/tensyo.gif)    
 ***
-![IPIP](https://github.com/8MiYile/HomoCraftServer/blob/master/images/ipip.png?raw=true)
+![IPIP](https://github.com/8MiYile/HomoCraftServer/blob/master/images/ipip.png?raw=true)<br>
+这么臭的IP地址有谁要Proxy吗,直接化粪池处理,请(无慈悲)
 ***
 友情链接: <br>
 CumServerPro: https://mcumbrella.github.io/CumServerProWebsite/

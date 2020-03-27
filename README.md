@@ -25,6 +25,6 @@ GK,NMLGB<br>
 这么臭的IP地址有谁要Proxy吗,直接化粪池处理,请(无慈悲)
 ***
 友情链接: <br>
-CumServerPro: https://cumserver.pro
+CumServerPro: https://github.com/MCUmbrella/CumServerPro
 ***
 Copyright © 2017-2020 8Mi-Tech. All right reserved

@@ -9,7 +9,7 @@ HomoCraftServer，ああああああああああああああああああああ�
 三天之内sa了腻，把你骨灰都给你扬喽<br>
 我们的官网是：http://114514.cn<br>
 备用地址是:http://www.114514.com/<br>
-非官方论坛:https://1919810.com
+非官方论坛:https://1919810.com<br>
 WDNMD真的是个小逼崽子(自动填充毛子语录)<br>
 GK,NMLGB(自动填充茄子语录)<br> 
 ***

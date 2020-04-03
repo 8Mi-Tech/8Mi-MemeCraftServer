@@ -9,8 +9,9 @@ HomoCraftServer，ああああああああああああああああああああ�
 三天之内sa了腻，把你骨灰都给你扬喽<br>
 我们的官网是：http://114514.cn<br>
 备用地址是:http://www.114514.com/<br>
-WDNMD真的是个小逼崽子<br>
-GK,NMLGB<br> 
+非官方论坛:https://1919810.com
+WDNMD真的是个小逼崽子(自动填充毛子语录)<br>
+GK,NMLGB(自动填充茄子语录)<br> 
 ***
 ![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=664673239,2606853837&fm=11&gp=0.jpg)<br>
 一日三餐没烦恼，今天就吃老八秘制小汉堡，即实惠，还管饱。臭豆腐，腐乳，加柠檬，你看这汉堡做的行不行。奥利给，兄弟们，造它就完了！    

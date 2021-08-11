@@ -1,4 +1,5 @@
-# HomoCraftServer
+# 8Mi-MemeCraftServer
+based on 8MiYile/HomoCraftServer
 
 ![](http://114514.cn/yjsp.jpeg)    
 GitHub信息：![GitHub](https://img.shields.io/github/license/8Mi-Tech/8Mi-MemeCraftServer),![GitHub issues](https://img.shields.io/github/issues-raw/8Mi-Tech/8Mi-MemeCraftServer),![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/8Mi-Tech/8Mi-MemeCraftServer)<br>

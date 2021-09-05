@@ -23,7 +23,7 @@ GK,NMLGB(自动填充茄子语录)<br>
 这么臭的搜狗输入法怕不是从粪坑里面捡的吧，丢化粪池，请（无慈悲）    
 ![先辈的首肯](https://res.khjxiaogu.com/piclib/a61d2953-ad7d-48ca-8f15-bcac5ad8ba13.gif)    
 ***
-![IPIP](https://github.com/8MiYile/HomoCraftServer/blob/master/images/ipip.png?raw=true)<br>
+![IPIP](https://github.com/8Mi-Tech/8Mi-MemeCraftServer/blob/master/images/ipip.png?raw=true)<br>
 这么臭的IP地址有谁要Proxy吗,直接化粪池处理,请(无慈悲)
 ***
 友情链接: <br>

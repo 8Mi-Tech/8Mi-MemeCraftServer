@@ -1,0 +1,1308 @@
+https://mclo.gs/PCjiCUI
+
+[22:50:41] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:50:41] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[22:50:41] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_351, running on Windows 10:amd64:10.0, installed at G:\java\8
+[22:50:41] [main/DEBUG] [FML/]: Java classpath at launch is 1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Java library path at launch is G:\java\8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;G:\Java\17\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\********\AppData\Local\Microsoft\WindowsApps;C:\Users\********\AppData\Local\Programs\Microsoft VS Code\bin;.
+[22:50:41] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[22:50:41] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[22:50:41] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[22:50:41] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to D:\桌面\1.8.9server\.
+[22:50:41] [main/DEBUG] [FML/]: Discovering coremods
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [Wawla高亮显示] Wawla-1.8.9-1.1.4.171.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [Wawla高亮显示] Wawla-1.8.9-1.1.4.171.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [Xaero的世界地图] XaerosWorldMap_1.14.1.20_Forge_1.8.9.jar
+[22:50:41] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in [Xaero的世界地图] XaerosWorldMap_1.14.1.20_Forge_1.8.9.jar, it will be examined later for regular @Mod instances
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class XaeroWorldMapPlugin
+[22:50:41] [main/DEBUG] [FML/]: The coremod xaero.map.core.XaeroWorldMapPlugin requested minecraft version 1.8.9 and minecraft is 1.8.9. It will be loaded.
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod XaeroWorldMapPlugin
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [Xaero的小地图] Xaeros_Minimap_21.10.27_Forge_1.8.9.jar
+[22:50:41] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in [Xaero的小地图] Xaeros_Minimap_21.10.27_Forge_1.8.9.jar, it will be examined later for regular @Mod instances
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class XaeroMinimapPlugin
+[22:50:41] [main/DEBUG] [FML/]: The coremod xaero.common.core.XaeroMinimapPlugin requested minecraft version 1.8.9 and minecraft is 1.8.9. It will be loaded.
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod XaeroMinimapPlugin
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [传送指令] SpawnCommands-2.2.3-mc1.8.9-forge.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [传送指令] SpawnCommands-2.2.3-mc1.8.9-forge.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [区块加载动画] ChunkAnimator-MC1.8.8-1.1.jar
+[22:50:41] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in [区块加载动画] ChunkAnimator-MC1.8.8-1.1.jar, it will be examined later for regular @Mod instances
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[22:50:41] [main/WARN] [FML/]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [变色龙] Chameleon-1.8.9-1.1.5.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [变色龙] Chameleon-1.8.9-1.1.5.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [多页箱子] MultiPageChest-1.4.1-MC1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [多页箱子] MultiPageChest-1.4.1-MC1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [方块同步修复] antighost-1.8.9-forge11.15.1.1722-1.1.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [方块同步修复] antighost-1.8.9-forge11.15.1.1722-1.1.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [更大的堆叠数量] upsizer-mc1.8.9-1.0.3.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [更大的堆叠数量] upsizer-mc1.8.9-1.0.3.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [更好的FPS] BetterFps-1.2.0.jar
+[22:50:41] [main/INFO] [FML/]: Loading tweaker me.guichaguri.betterfps.tweaker.BetterFpsTweaker from [更好的FPS] BetterFps-1.2.0.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [更好的建筑之杖] BetterBuildersWands-0.6.1-1.8.9r105+18eaa0f.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [更好的建筑之杖] BetterBuildersWands-0.6.1-1.8.9r105+18eaa0f.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [机会方块] ChanceCubes-1.8.9-2.0.0.86.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [机会方块] ChanceCubes-1.8.9-2.0.0.86.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [极简血量显示] Neat 1.1-3.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [极简血量显示] Neat 1.1-3.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [树叶快速腐烂] FastLeafDecay-1.8-1.6.jar
+[22:50:41] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in [树叶快速腐烂] FastLeafDecay-1.8-1.6.jar, it will be examined later for regular @Mod instances
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class FldLoadingPlugin
+[22:50:41] [main/WARN] [FML/]: The coremod com.olafski.fastleafdecay.FldLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod FldLoadingPlugin
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [泡沫修复]foamfix-0.6.3-anarchy-1.8.x.jar
+[22:50:41] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in [泡沫修复]foamfix-0.6.3-anarchy-1.8.x.jar, it will be examined later for regular @Mod instances
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class FoamFixCore
+[22:50:41] [main/TRACE] [FML/]: coremod named Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again. is loading
+[22:50:41] [main/WARN] [FML/]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again.
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [自然建筑生成] RecurrentComplex-0.**.**.**.**.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [自然建筑生成] RecurrentComplex-0.**.**.**.**.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [药水核心] PotionCore-1.3_for_1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [药水核心] PotionCore-1.3_for_1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [连锁采矿／矿脉矿工] VeinMiner-1.8.9-0.36.0.579+d08ea04.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [连锁采矿／矿脉矿工] VeinMiner-1.8.9-0.36.0.579+d08ea04.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [高亮信息拓展] Waila-1.6.0-B3_1.8.8.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [高亮信息拓展] Waila-1.6.0-B3_1.8.8.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy [鼠标手势] MouseTweaks-2.6.2-mc1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in [鼠标手势] MouseTweaks-2.6.2-mc1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy IvToolkit-1.2.6.jar
+[22:50:41] [main/TRACE] [FML/]: Adding IvToolkit-1.2.6.jar to the list of known coremods, it will not be examined again
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class IvToolkitLoadingPlugin
+[22:50:41] [main/TRACE] [FML/]: coremod named IvToolkit is loading
+[22:50:41] [main/WARN] [FML/]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod IvToolkit
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy liteloader-1.8.9-SNAPSHOT-release.jar
+[22:50:41] [main/INFO] [FML/]: Loading tweaker com.mumfrey.liteloader.launch.LiteLoaderTweaker from liteloader-1.8.9-SNAPSHOT-release.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy magicclover-1.8-0.7.4(1).jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in magicclover-1.8-0.7.4(1).jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy mcmap.cc-[超级矿石MOD][1.8.9].jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in mcmap.cc-[超级矿石MOD][1.8.9].jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy NoMoreRecipeConflict-0.3(1.8.X).jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in NoMoreRecipeConflict-0.3(1.8.X).jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy ReinforcedTools-1.4.0-MC1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in ReinforcedTools-1.4.0-MC1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy WailaHarvestability-mc1.8.x-1.1.7.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in WailaHarvestability-mc1.8.x-1.1.7.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【一键合成MOD】oneclickcrafting.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【一键合成MOD】oneclickcrafting.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【中文输入】InputFix-1.8.x-v2.jar
+[22:50:41] [main/TRACE] [FML/]: Adding 【中文输入】InputFix-1.8.x-v2.jar to the list of known coremods, it will not be examined again
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class InputFix
+[22:50:41] [main/TRACE] [FML/]: coremod named InputFix is loading
+[22:50:41] [main/WARN] [FML/]: The coremod lain.mods.inputfix.InputFix does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod InputFix
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【冒险地牢】RoguelikeDungeons-1.8.9-1.5.0.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【冒险地牢】RoguelikeDungeons-1.8.9-1.5.0.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【另一个幸运方块MOD】youtubers-lucky-blocks-mod-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【另一个幸运方块MOD】youtubers-lucky-blocks-mod-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【幸运方块】LuckyBlock_1-8-9_v7-0-2.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【幸运方块】LuckyBlock_1-8-9_v7-0-2.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【幸运方块扩展】Doctor-Who-Lucky-Block-Mod-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【幸运方块扩展】Doctor-Who-Lucky-Block-Mod-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【幸运方块扩展依赖】LuckyItemsAddon1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【幸运方块扩展依赖】LuckyItemsAddon1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【幸运方块扩展前置】Loot++-1.7.1_for_1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【幸运方块扩展前置】Loot++-1.7.1_for_1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【快速建筑】InstantMassiveStructuresMod2.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【快速建筑】InstantMassiveStructuresMod2.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【浮空遗迹】FloatingRuins-universal-1.8.r01.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【浮空遗迹】FloatingRuins-universal-1.8.r01.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【浮空遗迹前置】bspkrsCore-universal-7.01.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【浮空遗迹前置】bspkrsCore-universal-7.01.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【物品整理】InventoryTweaks-1.60-40.jar
+[22:50:41] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in 【物品整理】InventoryTweaks-1.60-40.jar, it will be examined later for regular @Mod instances
+[22:50:41] [main/DEBUG] [FML/]: Instantiating coremod class FMLPlugin
+[22:50:41] [main/WARN] [FML/]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:50:41] [main/DEBUG] [FML/]: Added access transformer class invtweaks.forge.asm.ITAccessTransformer to enqueued access transformers
+[22:50:41] [main/DEBUG] [FML/]: Enqueued coremod FMLPlugin
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【物品管理】JustEnoughItems-2.26.0.154.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【物品管理】JustEnoughItems-2.26.0.154.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【等价交换】ProjectE-1.8.9-PE1.1.4.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 【等价交换】ProjectE-1.8.9-PE1.1.4.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 【高清修复】OptiFine_1.8.9_HD_U_H6.jar
+[22:50:41] [main/INFO] [FML/]: Loading tweaker optifine.OptiFineForgeTweaker from 【高清修复】OptiFine_1.8.9_HD_U_H6.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 滑稽纪元-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Not found coremod data in 滑稽纪元-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Examining for coremod candidacy 简单联机-1.8.9.jar
+[22:50:41] [main/DEBUG] [FML/]: Mod 简单联机-1.8.9.jar has ModSide meta-inf value CLIENT, and we're SERVER. It will be ignored
+[22:50:41] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:50:41] [main/INFO] [LaunchWrapper/]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:50:41] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:50:41] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[22:50:41] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:41] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[22:50:41] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[22:50:42] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:50:42] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:50:42] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:50:42] [main/DEBUG] [FML/]: Injection complete
+[22:50:42] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[22:50:42] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[22:50:43] [main/DEBUG] [FML/]: Read 825 binary patches
+[22:50:43] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
+[22:50:44] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:44] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[22:50:44] [main/DEBUG] [FML/]: Injection complete
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:44] [main/DEBUG] [FML/]: Injecting coremod XaeroWorldMapPlugin {xaero.map.core.XaeroWorldMapPlugin} class transformers
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.map.core.transformer.ChunkTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.map.core.transformer.EntityPlayerTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.map.core.transformer.AbstractClientPlayerTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.map.core.transformer.WorldClientTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.map.core.transformer.PlayerListTransformer
+[22:50:44] [main/DEBUG] [FML/]: Injection complete
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin for XaeroWorldMapPlugin {xaero.map.core.XaeroWorldMapPlugin}
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin XaeroWorldMapPlugin
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class XaeroWorldMapPlugin run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:44] [main/DEBUG] [FML/]: Injecting coremod XaeroMinimapPlugin {xaero.common.core.XaeroMinimapPlugin} class transformers
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.GuiIngameForgeTransformer
+[22:50:44] [main/TRACE] [FML/]: Registering transformer xaero.common.core.transformer.ModelRendererTransformer
+[22:50:44] [main/DEBUG] [FML/]: Injection complete
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin for XaeroMinimapPlugin {xaero.common.core.XaeroMinimapPlugin}
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin XaeroMinimapPlugin
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class XaeroMinimapPlugin run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:44] [main/DEBUG] [FML/]: Injecting coremod IvToolkit {ivorius.ivtoolkit.IvToolkitLoadingPlugin} class transformers
+[22:50:44] [main/DEBUG] [FML/]: Injection complete
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin for IvToolkit {ivorius.ivtoolkit.IvToolkitLoadingPlugin}
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin IvToolkit
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class IvToolkitLoadingPlugin run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:44] [main/DEBUG] [FML/]: Injecting coremod InputFix {lain.mods.inputfix.InputFix} class transformers
+[22:50:44] [main/TRACE] [FML/]: Registering transformer lain.mods.inputfix.InputFixTransformer
+[22:50:44] [main/DEBUG] [FML/]: Injection complete
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin for InputFix {lain.mods.inputfix.InputFix}
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin InputFix
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class InputFix run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:44] [main/DEBUG] [FML/]: Injecting coremod FMLPlugin {invtweaks.forge.asm.FMLPlugin} class transformers
+[22:50:44] [main/TRACE] [FML/]: Registering transformer invtweaks.forge.asm.ContainerTransformer
+[22:50:44] [main/DEBUG] [FML/]: Injection complete
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin for FMLPlugin {invtweaks.forge.asm.FMLPlugin}
+[22:50:44] [main/DEBUG] [FML/]: Running coremod plugin FMLPlugin
+[22:50:44] [main/DEBUG] [FML/]: Coremod plugin class FMLPlugin run successfully
+[22:50:44] [main/INFO] [LaunchWrapper/]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[22:50:44] [main/INFO] [LiteLoader/]: Bootstrapping LiteLoader 1.8.9
+[22:50:49] [main/INFO] [LiteLoader/]: Registering API provider class com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient
+[22:50:49] [main/INFO] [LiteLoader/]: Spawning API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' ...
+[22:50:49] [main/INFO] [LiteLoader/]: API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' provides API 'liteloader'
+[22:50:49] [main/INFO] [LiteLoader/]: Initialising API 'liteloader' ...
+[22:50:49] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.5.3 Source=file:/D:/桌面/1.8.9server/mods/liteloader-1.8.9-SNAPSHOT-release.jar Env=SERVER
+[22:50:49] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #1
+[22:50:49] [main/INFO] [LiteLoader/]: LiteLoader begin PREINIT...
+[22:50:49] [main/INFO] [LiteLoader/]: Initialising Loader properties...
+[22:50:49] [main/INFO] [LiteLoader/]: Setting up logger...
+[22:50:49] [main/INFO] [LiteLoader/]: LiteLoader 1.8.9 starting up...
+[22:50:49] [main/INFO] [LiteLoader/]: Active Pack: 1.8.9-SNAPSHOT-r08134E7-b8-2016-04-14_16-33-58
+[22:50:49] [main/INFO] [LiteLoader/]: Java reports OS="windows 10"
+[22:50:49] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[PREINIT]
+[22:50:49] [main/INFO] [LiteLoader/]: Adding supported mod class prefix 'LiteMod'
+[22:50:49] [main/INFO] [LiteLoader/]: Enumerating class path...
+[22:50:49] [main/INFO] [LiteLoader/]: Class path separator=";"
+[22:50:49] [main/INFO] [LiteLoader/]: Class path entries=(
+   classpathEntry=1.8.9.jar
+)
+[22:50:49] [main/INFO] [LiteLoader/]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[22:50:49] [main/INFO] [LiteLoader/]: Registering discovery module EnumeratorModuleFolder: [D:\桌面\1.8.9server\mods]
+[22:50:49] [main/INFO] [LiteLoader/]: Registering discovery module EnumeratorModuleFolder: [D:\桌面\1.8.9server\mods\1.8.9]
+[22:50:49] [main/INFO] [LiteLoader/]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@6f2cfcc2]
+[22:50:49] [main/INFO] [LiteLoader/]: Discovering tweaks on class path...
+[22:50:49] [main/INFO] [LiteLoader/]: Baking listener list for EnumerationObserver with 1 listeners
+[22:50:49] [main/INFO] [LiteLoader/]: Discovering valid mod files in folder mods
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'IvToolkit-1.2.6.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\IvToolkit-1.2.6.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'liteloader-1.8.9-SNAPSHOT-release.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\liteloader-1.8.9-SNAPSHOT-release.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'magicclover-1.8-0.7.4(1).jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\magicclover-1.8-0.7.4(1).jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'mcmap.cc-[超级矿石MOD][1.8.9].jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\mcmap.cc-[超级矿石MOD][1.8.9].jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'NoMoreRecipeConflict-0.3(1.8.X).jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\NoMoreRecipeConflict-0.3(1.8.X).jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'ReinforcedTools-1.4.0-MC1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\ReinforcedTools-1.4.0-MC1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in 'WailaHarvestability-mc1.8.x-1.1.7.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\WailaHarvestability-mc1.8.x-1.1.7.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[Wawla高亮显示] Wawla-1.8.9-1.1.4.171.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[Wawla高亮显示] Wawla-1.8.9-1.1.4.171.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[Xaero的世界地图] XaerosWorldMap_1.14.1.20_Forge_1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[Xaero的世界地图] XaerosWorldMap_1.14.1.20_Forge_1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[Xaero的小地图] Xaeros_Minimap_21.10.27_Forge_1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[Xaero的小地图] Xaeros_Minimap_21.10.27_Forge_1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[传送指令] SpawnCommands-2.2.3-mc1.8.9-forge.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[传送指令] SpawnCommands-2.2.3-mc1.8.9-forge.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[区块加载动画] ChunkAnimator-MC1.8.8-1.1.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[区块加载动画] ChunkAnimator-MC1.8.8-1.1.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[变色龙] Chameleon-1.8.9-1.1.5.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[变色龙] Chameleon-1.8.9-1.1.5.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[多页箱子] MultiPageChest-1.4.1-MC1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[多页箱子] MultiPageChest-1.4.1-MC1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[方块同步修复] antighost-1.8.9-forge11.15.1.1722-1.1.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[方块同步修复] antighost-1.8.9-forge11.15.1.1722-1.1.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[更大的堆叠数量] upsizer-mc1.8.9-1.0.3.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[更大的堆叠数量] upsizer-mc1.8.9-1.0.3.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[更好的FPS] BetterFps-1.2.0.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[更好的FPS] BetterFps-1.2.0.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[更好的建筑之杖] BetterBuildersWands-0.6.1-1.8.9r105+18eaa0f.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[更好的建筑之杖] BetterBuildersWands-0.6.1-1.8.9r105+18eaa0f.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[机会方块] ChanceCubes-1.8.9-2.0.0.86.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[机会方块] ChanceCubes-1.8.9-2.0.0.86.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[极简血量显示] Neat 1.1-3.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[极简血量显示] Neat 1.1-3.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[树叶快速腐烂] FastLeafDecay-1.8-1.6.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[树叶快速腐烂] FastLeafDecay-1.8-1.6.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[泡沫修复]foamfix-0.6.3-anarchy-1.8.x.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[泡沫修复]foamfix-0.6.3-anarchy-1.8.x.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[自然建筑生成] RecurrentComplex-0.**.**.**.**.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[自然建筑生成] RecurrentComplex-0.**.**.**.**.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[药水核心] PotionCore-1.3_for_1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[药水核心] PotionCore-1.3_for_1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[连锁采矿／矿脉矿工] VeinMiner-1.8.9-0.36.0.579+d08ea04.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[连锁采矿／矿脉矿工] VeinMiner-1.8.9-0.36.0.579+d08ea04.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[高亮信息拓展] Waila-1.6.0-B3_1.8.8.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\[高亮信息拓展] Waila-1.6.0-B3_1.8.8.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '[鼠标手势] MouseTweaks-2.6.2-mc1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Considering valid mod file: D:\桌面\1.8.9server\mods\[鼠标手势] MouseTweaks-2.6.2-mc1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【一键合成MOD】oneclickcrafting.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【一键合成MOD】oneclickcrafting.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【中文输入】InputFix-1.8.x-v2.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【中文输入】InputFix-1.8.x-v2.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【冒险地牢】RoguelikeDungeons-1.8.9-1.5.0.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【冒险地牢】RoguelikeDungeons-1.8.9-1.5.0.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【另一个幸运方块MOD】youtubers-lucky-blocks-mod-1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【另一个幸运方块MOD】youtubers-lucky-blocks-mod-1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【幸运方块】LuckyBlock_1-8-9_v7-0-2.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【幸运方块】LuckyBlock_1-8-9_v7-0-2.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【幸运方块扩展】Doctor-Who-Lucky-Block-Mod-1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【幸运方块扩展】Doctor-Who-Lucky-Block-Mod-1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【幸运方块扩展依赖】LuckyItemsAddon1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【幸运方块扩展依赖】LuckyItemsAddon1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【幸运方块扩展前置】Loot++-1.7.1_for_1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【幸运方块扩展前置】Loot++-1.7.1_for_1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【快速建筑】InstantMassiveStructuresMod2.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【快速建筑】InstantMassiveStructuresMod2.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【浮空遗迹】FloatingRuins-universal-1.8.r01.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【浮空遗迹】FloatingRuins-universal-1.8.r01.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【浮空遗迹前置】bspkrsCore-universal-7.01.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【浮空遗迹前置】bspkrsCore-universal-7.01.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【物品整理】InventoryTweaks-1.60-40.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【物品整理】InventoryTweaks-1.60-40.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【物品管理】JustEnoughItems-2.26.0.154.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【物品管理】JustEnoughItems-2.26.0.154.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【等价交换】ProjectE-1.8.9-PE1.1.4.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【等价交换】ProjectE-1.8.9-PE1.1.4.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '【高清修复】OptiFine_1.8.9_HD_U_H6.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\【高清修复】OptiFine_1.8.9_HD_U_H6.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '滑稽纪元-1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\滑稽纪元-1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Inspecting jar metadata in '简单联机-1.8.9.jar'
+[22:50:49] [main/INFO] [LiteLoader/]: Ignoring D:\桌面\1.8.9server\mods\简单联机-1.8.9.jar
+[22:50:49] [main/INFO] [LiteLoader/]: Adding newest valid mod file 'D:\桌面\1.8.9server\mods\[鼠标手势] MouseTweaks-2.6.2-mc1.8.9.jar' at revision 0.0000
+[22:50:49] [main/INFO] [LiteLoader/]: Discovering valid mod files in folder mods\1.8.9
+[22:50:49] [main/INFO] [LiteLoader/]: Initialising LiteLoader Mixins
+[22:50:49] [main/INFO] [LiteLoader/]: LiteLoader PREINIT complete
+[22:50:49] [main/INFO] [LiteLoader/]: Injecting required class transformer 'com.mumfrey.liteloader.transformers.event.EventProxyTransformer'
+[22:50:49] [main/INFO] [LiteLoader/]: Injecting required class transformer 'com.mumfrey.liteloader.launch.LiteLoaderTransformer'
+[22:50:49] [main/INFO] [LiteLoader/]: Injecting required class transformer 'com.mumfrey.liteloader.client.transformers.CrashReportTransformer'
+[22:50:49] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.transformers.event.EventTransformer'
+[22:50:49] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
+[22:50:49] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.client.transformers.MinecraftTransformer'
+[22:50:49] [main/INFO] [LiteLoader/]: Queuing required class transformer 'com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer'
+[22:50:49] [main/INFO] [LaunchWrapper/]: Calling tweak class me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[22:50:49] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:50:49] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[22:50:49] [main/DEBUG] [FML/]: Loaded 10 rules from AccessTransformer config file invtweaks_at.cfg
+[22:50:49] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file D:\桌面\1.8.9server\mods\【物品管理】JustEnoughItems-2.26.0.154.jar!META-INF/jei_at.cfg
+
+[22:50:49] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #2
+[22:50:49] [main/DEBUG] [FML/]: Validating minecraft
+[22:50:50] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[INIT]
+[22:50:50] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[22:50:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:50] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin {lumien.chunkanimator.asm.LoadingPlugin} class transformers
+[22:50:50] [main/TRACE] [FML/]: Registering transformer lumien.chunkanimator.asm.ClassTransformer
+[22:50:50] [main/DEBUG] [ChunkAnimatorCore/]: Starting Class Transformation
+[22:50:50] [main/DEBUG] [FML/]: Injection complete
+[22:50:50] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin {lumien.chunkanimator.asm.LoadingPlugin}
+[22:50:50] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[22:50:50] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[22:50:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:50] [main/DEBUG] [FML/]: Injecting coremod FldLoadingPlugin {com.olafski.fastleafdecay.FldLoadingPlugin} class transformers
+[22:50:50] [main/TRACE] [FML/]: Registering transformer com.olafski.fastleafdecay.FldTransformer
+[22:50:50] [main/DEBUG] [FML/]: Injection complete
+[22:50:50] [main/DEBUG] [FML/]: Running coremod plugin for FldLoadingPlugin {com.olafski.fastleafdecay.FldLoadingPlugin}
+[22:50:50] [main/DEBUG] [FML/]: Running coremod plugin FldLoadingPlugin
+[22:50:50] [main/DEBUG] [FML/]: Coremod plugin class FldLoadingPlugin run successfully
+[22:50:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:50:50] [main/DEBUG] [FML/]: Injecting coremod Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again. {pl.asie.foamfix.coremod.FoamFixCore} class transformers
+[22:50:50] [main/TRACE] [FML/]: Registering transformer pl.asie.foamfix.coremod.FoamFixTransformer
+[22:50:50] [main/DEBUG] [FML/]: Injection complete
+[22:50:50] [main/DEBUG] [FML/]: Running coremod plugin for Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again. {pl.asie.foamfix.coremod.FoamFixCore}
+[22:50:50] [main/DEBUG] [FML/]: Running coremod plugin Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again.
+[22:50:50] [main/DEBUG] [FML/]: Coremod plugin class FoamFixCore run successfully
+[22:50:50] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:50:50] [main/INFO] [LaunchWrapper/]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:50:50] [main/DEBUG] [mixin/]: Adding mixin launch agents for container file:/D:/桌面/1.8.9server/mods/liteloader-1.8.9-SNAPSHOT-release.jar
+[22:50:50] [main/INFO] [LaunchWrapper/]: Loading tweak class name org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker
+[22:50:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:50:50] [main/INFO] [LaunchWrapper/]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:50:50] [main/DEBUG] [mixin/]: Processing launch tasks for LaunchAgent[MixinLaunchAgentFML:file:/D:/桌面/1.8.9server/mods/liteloader-1.8.9-SNAPSHOT-release.jar]
+[22:50:50] [main/INFO] [mixin/]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6ffab045
+[22:50:50] [main/DEBUG] [mixin/]: Processing launch tasks for LaunchAgent[MixinLaunchAgentDefault:file:/D:/桌面/1.8.9server/mods/liteloader-1.8.9-SNAPSHOT-release.jar]
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/%e6%a1%8c%e9%9d%a2/1.8.9server/1.8.9.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/%5BXaero的世界地图%5D%20XaerosWorldMap_1.14.1.20_Forge_1.8.9.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/%5BXaero的小地图%5D%20Xaeros_Minimap_21.10.27_Forge_1.8.9.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/%5B区块加载动画%5D%20ChunkAnimator-MC1.8.8-1.1.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/%5B更好的FPS%5D%20BetterFps-1.2.0.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/%5B树叶快速腐烂%5D%20FastLeafDecay-1.8-1.6.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/%5B泡沫修复%5Dfoamfix-0.6.3-anarchy-1.8.x.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/IvToolkit-1.2.6.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/【中文输入】InputFix-1.8.x-v2.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/【物品整理】InventoryTweaks-1.60-40.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning file:/D:/桌面/1.8.9server/mods/【高清修复】OptiFine_1.8.9_HD_U_H6.jar for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: Scanning asmgen:/ for mixin tweaker
+[22:50:50] [main/DEBUG] [mixin/]: injectIntoClassLoader running with 1 agents
+[22:50:50] [main/INFO] [LaunchWrapper/]: Calling tweak class org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker
+[22:50:50] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker has already been visited -- skipping
+[22:50:50] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:50:50] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #3
+[22:50:50] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[22:50:51] [main/DEBUG] [mixin/]: Adding config mixins.liteloader.core.json
+[22:50:51] [main/DEBUG] [mixin/]: Adding config mixins.liteloader.client.json
+[22:50:51] [main/DEBUG] [mixin/]: Preparing mixins.liteloader.core.json (6)
+[22:50:51] [main/DEBUG] [mixin/]: Rebuilding transformer delegation list:
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.map.core.transformer.ChunkTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.map.core.transformer.EntityPlayerTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.map.core.transformer.AbstractClientPlayerTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.map.core.transformer.WorldClientTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.map.core.transformer.PlayerListTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.ChunkTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.GuiIngameForgeTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.xaero.common.core.transformer.ModelRendererTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.lain.mods.inputfix.InputFixTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.invtweaks.forge.asm.ContainerTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Excluding: org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    com.mumfrey.liteloader.transformers.event.EventProxyTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    com.mumfrey.liteloader.launch.LiteLoaderTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    com.mumfrey.liteloader.client.transformers.CrashReportTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    me.guichaguri.betterfps.transformers.MathTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    me.guichaguri.betterfps.transformers.EventTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    invtweaks.forge.asm.ITAccessTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Excluding: org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.lumien.chunkanimator.asm.ClassTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.com.olafski.fastleafdecay.FldTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Adding:    $wrapper.pl.asie.foamfix.coremod.FoamFixTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[22:50:51] [main/DEBUG] [mixin/]:   Excluding: org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy
+[22:50:51] [main/DEBUG] [mixin/]: Transformer delegation list created with 34 entries
+[22:50:51] [main/DEBUG] [mixin/]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/server/MinecraftServer to metadata cache
+[22:50:51] [main/INFO] [STDOUT/]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.server.management.ServerConfigurationManager
+[22:50:51] [main/INFO] [STDOUT/]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class lx net.minecraft.server.management.ServerConfigurationManager
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/server/management/ServerConfigurationManager to metadata cache
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/network/NetHandlerPlayServer to metadata cache
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/server/management/ItemInWorldManager to metadata cache
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/network/play/client/C15PacketClientSettings to metadata cache
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/network/play/server/S02PacketChat to metadata cache
+[22:50:51] [main/DEBUG] [mixin/]: Preparing mixins.liteloader.client.json (17)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class ave for invalid side SERVER
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/Minecraft to metadata cache
+[22:50:51] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found mixins.liteloader.client.json:MixinMinecraft
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.Minecraft was not found mixins.liteloader.client.json:MixinMinecraft
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class avm for invalid side SERVER
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/util/Session to metadata cache
+[22:50:51] [main/ERROR] [mixin/]: @Mixin target net.minecraft.util.Session was not found mixins.liteloader.client.json:MixinSession
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.util.Session was not found mixins.liteloader.client.json:MixinSession
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bfk for invalid side SERVER
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/renderer/EntityRenderer to metadata cache
+[22:50:51] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.renderer.EntityRenderer was not found mixins.liteloader.client.json:MixinEntityRenderer
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.renderer.EntityRenderer was not found mixins.liteloader.client.json:MixinEntityRenderer
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class biu for invalid side SERVER
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:51] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/renderer/entity/RenderManager to metadata cache
+[22:50:51] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.RenderManager was not found mixins.liteloader.client.json:MixinRenderManager
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.renderer.entity.RenderManager was not found mixins.liteloader.client.json:MixinRenderManager
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: java.lang.ArrayIndexOutOfBoundsException: 6
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.objectweb.asm.ClassReader.readShort(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer.transform(DeobfuscationTransformer.java:41)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:51] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/gui/GuiIngame to metadata cache
+[22:50:51] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.gui.GuiIngame was not found mixins.liteloader.client.json:MixinGuiIngame
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.gui.GuiIngame was not found mixins.liteloader.client.json:MixinGuiIngame
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:51] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bew for invalid side SERVER
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/entity/EntityPlayerSP to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.entity.EntityPlayerSP was not found mixins.liteloader.client.json:MixinEntityPlayerSP
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.entity.EntityPlayerSP was not found mixins.liteloader.client.json:MixinEntityPlayerSP
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bfw for invalid side SERVER
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/shader/Framebuffer to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.shader.Framebuffer was not found mixins.liteloader.client.json:MixinFramebuffer
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.shader.Framebuffer was not found mixins.liteloader.client.json:MixinFramebuffer
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bpo for invalid side SERVER
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/server/integrated/IntegratedServer to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.server.integrated.IntegratedServer was not found mixins.liteloader.client.json:MixinIntegratedServer
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.server.integrated.IntegratedServer was not found mixins.liteloader.client.json:MixinIntegratedServer
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: java.lang.ArrayIndexOutOfBoundsException
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/util/ScreenShotHelper to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.util.ScreenShotHelper was not found mixins.liteloader.client.json:MixinScreenShotHelper
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.util.ScreenShotHelper was not found mixins.liteloader.client.json:MixinScreenShotHelper
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: java.lang.ArrayIndexOutOfBoundsException
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for com/mojang/realmsclient/RealmsMainScreen to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target com.mojang.realmsclient.RealmsMainScreen was not found mixins.liteloader.client.json:MixinRealmsMainScreen
+org.spongepowered.asm.mixin.MixinException: @Mixin target com.mojang.realmsclient.RealmsMainScreen was not found mixins.liteloader.client.json:MixinRealmsMainScreen
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bcx for invalid side SERVER
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/network/NetHandlerLoginClient to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.network.NetHandlerLoginClient was not found mixins.liteloader.client.json:MixinNetHandlerLoginClient
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.network.NetHandlerLoginClient was not found mixins.liteloader.client.json:MixinNetHandlerLoginClient
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/util/RegistrySimple to metadata cache
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/util/RegistryNamespaced to metadata cache
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bhc for invalid side SERVER
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/renderer/tileentity/TileEntityRendererDispatcher to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher was not found mixins.liteloader.client.json:MixinTileEntityRendererDispatcher
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher was not found mixins.liteloader.client.json:MixinTileEntityRendererDispatcher
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@38089a5a from coremod FMLCorePlugin
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:234)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.applyTransformers(TreeInfo.java:147)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.loadClass(TreeInfo.java:92)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.TreeInfo.getClassNode(TreeInfo.java:59)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:1497)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:350)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.Class.forName(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.RuntimeException: Attempted to load class bnn for invalid side SERVER
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:49)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:230)
+[22:50:52] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:-1]: 	... 27 more
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/resources/SimpleReloadableResourceManager to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.resources.SimpleReloadableResourceManager was not found mixins.liteloader.client.json:MixinSimpleReloadableResourceManager
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.resources.SimpleReloadableResourceManager was not found mixins.liteloader.client.json:MixinSimpleReloadableResourceManager
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: java.lang.ArrayIndexOutOfBoundsException
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/audio/SoundHandler to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.audio.SoundHandler was not found mixins.liteloader.client.json:MixinSoundHandler
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.audio.SoundHandler was not found mixins.liteloader.client.json:MixinSoundHandler
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/INFO] [STDERR/]: [org.spongepowered.asm.mixin.transformer.ClassInfo:forName:1500]: java.lang.ArrayIndexOutOfBoundsException
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for net/minecraft/client/gui/GuiTextField to metadata cache
+[22:50:52] [main/ERROR] [mixin/]: @Mixin target net.minecraft.client.gui.GuiTextField was not found mixins.liteloader.client.json:MixinGuiTextField
+org.spongepowered.asm.mixin.MixinException: @Mixin target net.minecraft.client.gui.GuiTextField was not found mixins.liteloader.client.json:MixinGuiTextField
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.checkTarget(MixinInfo.java:362) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargets(MixinInfo.java:351) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(MixinInfo.java:323) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:281) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialiseMixins(MixinConfig.java:377) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.initialise(MixinConfig.java:312) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.initConfigs(MixinTransformer.java:555) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.init(MixinTransformer.java:489) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:393) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for org/spongepowered/asm/mixin/injection/At$Shift to metadata cache
+[22:50:52] [main/DEBUG] [mixin/]: Prepared 8 mixins in 1.887 sec (235.9 msec avg.)
+[22:50:52] [main/DEBUG] [mixin/]: Mixing MixinMinecraftServer from mixins.liteloader.core.json into net.minecraft.server.MinecraftServer
+[22:50:52] [main/TRACE] [mixin/]: Added class metadata for com/mumfrey/liteloader/core/Proxy to metadata cache
+[22:50:52] [main/FATAL] [mixin/]: Mixin failed applying mixins.liteloader.core.json:MixinMinecraftServer -> net.minecraft.server.MinecraftServer: org.spongepowered.asm.mixin.injection.InvalidInjectionException @Inject annotation on handler$onServerTick$0 could not find 'B'
+org.spongepowered.asm.mixin.injection.InvalidInjectionException: @Inject annotation on handler$onServerTick$0 could not find 'B'
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:188) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:148) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:42) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:411) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:927) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicator.prepareInjections(MixinApplicator.java:761) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicator.applyMixin(MixinApplicator.java:251) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicator.apply(MixinApplicator.java:220) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:174) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.apply(MixinTransformer.java:665) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.applyMixins(MixinTransformer.java:635) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:442) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) [liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) [launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) [?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) [?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) [?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+[22:50:52] [main/ERROR] [LaunchWrapper/]: Unable to launch
+java.lang.ClassNotFoundException: net.minecraft.server.MinecraftServer
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_351]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_351]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_351]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [1.8.9.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [1.8.9.jar:?]
+Caused by: org.spongepowered.asm.mixin.MixinApplyError: Mixin [mixins.liteloader.core.json:MixinMinecraftServer] from phase [DEFAULT] in config [mixins.liteloader.core.json] FAILED
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.handleMixinErrorState(MixinTransformer.java:703) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:448) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	... 12 more
+Caused by: org.spongepowered.asm.mixin.injection.InvalidInjectionException: @Inject annotation on handler$onServerTick$0 could not find 'B'
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:188) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:148) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:42) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:411) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:927) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicator.prepareInjections(MixinApplicator.java:761) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicator.applyMixin(MixinApplicator.java:251) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicator.apply(MixinApplicator.java:220) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:174) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.apply(MixinTransformer.java:665) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.applyMixins(MixinTransformer.java:635) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:442) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:109) ~[liteloader-1.8.9-SNAPSHOT-release.jar:1.8.9-SNAPSHOT+unknown-b0.git-unknown]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	... 12 more
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: java.lang.reflect.InvocationTargetException
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:12]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:30)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	at java.lang.SecurityManager.checkExit(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	at java.lang.Runtime.exit(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	at java.lang.System.exit(Unknown Source)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:50:52] [main/INFO] [STDERR/]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:48]: 	... 6 more

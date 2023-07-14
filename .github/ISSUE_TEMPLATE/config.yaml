@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: 无模板工单
-    url: ../
+    url: https://github.com/8Mi-Tech/8Mi-MemeCraftServer/issues/new
     about: 或者点击底下的 Open a blank issue 也是可以的

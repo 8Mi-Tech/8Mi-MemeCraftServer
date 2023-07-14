@@ -1,5 +1,5 @@
 name: PlusNE-报告问题
-description: 报告问题以帮助我们改进PlusNE
+description: 报告问题以帮助我们改进PlusNE（注意，这仅仅只是一个模板，不要在我的Repo提及PlusNE的问题）
 labels: [ PlusNE, Bug ]
 title: "[PlusNE-Bug] "
 body:

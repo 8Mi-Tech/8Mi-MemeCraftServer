@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 无模板工单
+    url: ../
+    about: 或者点击底下的 Open a blank issue 也是可以的

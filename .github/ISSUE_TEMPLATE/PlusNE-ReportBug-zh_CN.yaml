@@ -1,0 +1,85 @@
+name: PlusNE-报告问题
+description: 报告问题以帮助我们改进PlusNE
+labels: [ PlusNE, Bug ]
+title: "[PlusNE-Bug] "
+body:
+  - type: markdown
+    attributes:
+       value: |
+        你好，这里是 `PlusNE`的 报告问题工单
+        注意：非Root的手机，打开插件主页提示框架未激活是正常的，应该以应用内是否加载为准
+        标注红色星号的为必填项，并请保持工单整洁，按规范来
+  - type: textarea
+    id: description
+    validations:
+      required: true
+    attributes:
+      label: 描述问题
+      description: |
+        简单的描述问题, 并提供类似图片、录屏之类的图像，以更好的报告错误(如果可以)
+        ！注意：请不要在这里放日志文件或崩溃报告文件的内容
+  - type: textarea
+    id: reproducing
+    validations:
+      required: true
+    attributes:
+      label: 复现步骤
+      description: 请问你是如何触发这个问题的
+      render: bash
+      value:  |
+       1. 
+       2. 
+       3. 
+  - type: input
+    id: crash-log
+    attributes:
+      label: 崩溃日志查看地址
+      description: |
+       [生成连接](https://mclo.gs)
+      placeholder: "示例: https://mclo.gs/xxxxxx"
+  - type: input
+    id: ne-log
+    attributes:
+      label: PlusNE日志查看地址
+      description: |
+       [生成连接](https://mclo.gs)
+      placeholder: "示例: https://mclo.gs/xxxxxx"
+  - type: input
+    id: lsposed-log
+    attributes:
+      label: "[仅LSPosed用户] LSPosed Log 查看地址"
+      description: |
+       [生成连接](https://mclo.gs)
+      placeholder: "示例: https://mclo.gs/xxxxxx"
+  - type: textarea
+    id: device-info
+    validations:
+      required: true
+    attributes:
+      label: 手机信息
+      description: |
+        根据信息填写，如果你的手机不是使用这些的，或者没有对应信息，可以写无，或者抹除某行
+        前四项为必填项
+      render: bash
+      value:  |
+       *手机品牌：
+       *手机型号：
+       *PlusNE版本:
+       *是否Root: 
+       Magisk版本:
+       KernelSU版本：
+       LSPosed版本：
+       LSPatch版本：
+       太极版本：
+  - type: textarea
+    id: app-info
+    validations:
+      required: true
+    attributes:
+      label: 应用信息
+      description: |
+        自行填写 是哪个应用出了问题 以及应用的版本是什么
+        一行一个应用
+      render: bash
+      value:  |
+        Soul： 4.85.0

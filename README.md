@@ -28,5 +28,6 @@ GK,NMLGB(自动填充茄子语录)<br>
 ***
 友情链接: <br>
 CumServerPro: https://github.com/MCUmbrella/CumServerPro
+HMCL弔图时刻：https://github.com/HMCL-dev/HMCL/discussions/2640
 ***
 Copyright © 2017-2020 8Mi-Tech. All right reserved

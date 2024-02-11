@@ -121,6 +121,7 @@ https://alist.nn.ci/zh/guide/drivers/common.html
 - 如果都能显示工作中,那么你的第一个盘添加成功，再添加第二个盘就简单了，多看看文档
 ---
 3. RClone篇 （挂载篇）
+- 如果要用 OpenBMCLAPI Go或者TS端的 WebDav功能，请跳过这一块
 - 首先安装RClone
 以下是Debian系列发行版的安装指令，其他的要自行百度
 `以勒只用 Deepin 和 UnionTechOS`
@@ -207,7 +208,7 @@ storages: #list原则上能放多个平台的，在AList篇章有提到
       redirect_base: https://alist.8mi.free.hr:8443/d/bmclapi/189
 ```
 
-新版支持对接WebDav，可以直接对接到WebDav，同时就不需要Alist里面的别名（但需要额外测试确认）
+新版支持对接WebDav，可以直接对接到WebDav，同时就不需要Alist里面的别名，也不需要使用RClone（但需要额外测试确认）
 ```yaml
 stroages:
   - type: webdav

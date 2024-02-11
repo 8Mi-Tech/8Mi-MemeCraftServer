@@ -194,14 +194,39 @@ trusted-x-forwarded-for: true
 keepalive_timeout: 60
 download_max_conn: 16
 
-oss:
-  enable: true
-  list: #list原则上能放多个平台的，在AList篇章有提到
-      - folder_path: 139Cloud
-        redirect_base: https://alist.8mi.free.hr:8443/d/bmclapi/139
-      - folder_path: 189Cloud
-        redirect_base: https://alist.8mi.free.hr:8443/d/bmclapi/189
+storages: #list原则上能放多个平台的，在AList篇章有提到
+  - type: mount
+    weight: 0
+    data:
+      path: 139Cloud
+      redirect_base: https://alist.8mi.free.hr:8443/d/bmclapi/139
+  - type: mount
+    weight: 0
+    data:
+      path: 189Cloud
+      redirect_base: https://alist.8mi.free.hr:8443/d/bmclapi/189
+```
 
+新版支持对接WebDav，可以直接对接到WebDav，同时就不需要Alist里面的别名（但需要额外测试确认）
+```yaml
+stroages:
+  - type: webdav
+    weight: 0
+    data:
+      alias: example-user
+      endpoint: http://127.0.0.1:5244/dav/139Cloud/BMCLAPI-Mirrors
+  - type: webdav
+    weight: 0
+    data:
+      alias: example-user
+      endpoint: http://127.0.0.1:5244/dav/189Cloud/BMCLAPI-Mirrors
+
+webdav-users:
+    example-user:
+        # Webdav 入口 URL
+        endpoint: http://127.0.0.1:5244/dav
+        username: example-username
+        password: example-password
 ```
 - 至于配置文件的配置项 cluster_id 和 cluster_secret , 联系 bangbang93 以获得信息
 - 如果配置好了，那就输入如下指令吧

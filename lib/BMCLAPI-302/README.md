@@ -80,9 +80,9 @@ server {
   #ssl_trusted_certificate /path/to/certificate/openbmclapi.example.com/fullchain.pem;
 
   location / {
-    proxy_buffers 16 4k;
-    proxy_buffer_size 2k;
-    #proxy_buffering off;
+    #proxy_buffers 16 4k;
+    #proxy_buffer_size 2k;
+    proxy_buffering off; # Because of [AList/#5967](https://github.com/alist-org/alist/issues/5967)
 
     proxy_http_version 1.1;
     proxy_set_header Upgrade $http_upgrade;
@@ -95,6 +95,43 @@ server {
     proxy_pass http://openbmclapi-default;
     }
   }
+```
+>/etc/nginx/conf.d/alist.conf
+```nginx.conf
+upstream alist-default {
+  zone alist-default 64k;
+  server 127.0.0.1:5244;
+  keepalive 2;
+}
+map $http_upgrade $connection_upgrade {
+  default upgrade;
+  ''      "";
+}
+server {
+  listen 443 ssl;
+  listen [::]:443 ssl;
+  http2 on;
+  server_name alist.example.com;
+
+  ## 如果自备ssl证书,请正确配置以下内容
+  #ssl_certificate /path/to/certificate/openbmclapi.example.com/fullchain.pem;
+  #ssl_certificate_key /path/to/certificate/openbmclapi.example.com/privkey.pem;
+  #ssl_trusted_certificate /path/to/certificate/openbmclapi.example.com/fullchain.pem;
+
+
+  client_max_body_size 4G;
+
+  location / {
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection $connection_upgrade;
+
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+
+    proxy_pass http://alist-default;
+}
 ```
 ### 注意: 
 如果遇到 `443` 端口不可用/被您的网络服务提供商阻止, 请修改默认的端口

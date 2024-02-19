@@ -99,8 +99,8 @@ server {
 ### 注意: 
 如果遇到 `443` 端口不可用/被您的网络服务提供商阻止, 请修改默认的端口
 
-## AList 
-请遵循[官方](https://alist.nn.ci/zh/guide/install/)的安装方法安装
+## [AList](https://alist.nn.ci/zh/)
+[安装AList](https://alist.nn.ci/zh/guide/install/)
 
 (若有安装MySQL)编辑 `/opt/alist/data/config.json` 内的 `database` 内容,根据实际情况修改配置
 ```json
@@ -124,7 +124,9 @@ server {
   - 路径请按实际要求配置
   - 缓存过期时间：建议1天以内 也就是1440分钟以内在你的网盘内添加文件夹 `BMCLAPI-Mirrors`
 
-## Go-OpenBMCLAPI
+## [Go-OpenBMCLAPI](https://github.com/LiterMC/go-openbmclapi)
+[安装Go-OpenBMCLAPI](https://github.com/LiterMC/go-openbmclapi)
+
 新版支持对接WebDav，可以直接对接到WebDav别名, 因此在你的 `/opt/openbmclapi/config.yaml` 中修改匹配字段为实际值
 ```yaml
 stroages:
@@ -160,4 +162,4 @@ webdav-users:
 9. bang15bianshi
 
 *我是后来的共献者, 几乎改完了全篇, 写的有够无语*
-![Alt text](%E5%9B%BE%E7%89%87.png)
+![There is no alt because im speechless](%E5%9B%BE%E7%89%87.png)

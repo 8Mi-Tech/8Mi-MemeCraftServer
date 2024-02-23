@@ -171,17 +171,17 @@ stroages:
     weight: 0
     data:
       alias: example-user
-      endpoint: http://127.0.0.1:5244/dav/139Cloud/BMCLAPI-Mirrors
+      endpoint: ./139Cloud/BMCLAPI-Mirrors
   - type: webdav
     weight: 0
     data:
       alias: example-user
-      endpoint: http://127.0.0.1:5244/dav/189Cloud/BMCLAPI-Mirrors
+      endpoint: ./189Cloud/BMCLAPI-Mirrors
 
 webdav-users:
     example-user:
         # Webdav 入口 URL
-        endpoint: http://127.0.0.1:5244/dav
+        endpoint: http://127.0.0.1:5244/dav/ # 这里一定要用/结尾
         username: example-username
         password: example-password
 ```

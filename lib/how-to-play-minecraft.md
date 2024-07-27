@@ -17,7 +17,15 @@
 然后把启动器复制进去
 明白了吧
 ```
-
+# 打开启动器后要做的事情
+账户登陆（必须是正版或者LittleSkin登陆，否则过不了）
+正版登陆指的是`微软账户`登录
+LittleSkin指的是
+- ![截图_org jackhuang hmcl Launcher_20240727222240](https://github.com/user-attachments/assets/6497535f-28a2-474b-8d22-2980c1441374)
+- 如果你没有这个选项 可以点击`添加认证服务器`将如下内容复制进去 并点击`下一步`和`完成`
+```
+https://littleskin.cn/api/yggdrasil
+```
 # 安装整合包（通过下载地址）
 操作流程
 1. 点选`版本列表`<br>![截图_org jackhuang hmcl Launcher_20240727215426](https://github.com/user-attachments/assets/6d25cd36-e639-45e9-b767-e898758093b0)
@@ -33,6 +41,3 @@ https://8mi.ink/HMCL-AyanaMod-modpack
 6. 确定之后再点安装<br>![截图_org jackhuang hmcl Launcher_20240727220803](https://github.com/user-attachments/assets/6ffd9eae-04d7-4b11-b952-9f493f799744)
 7. 不出意外的话，他会弹出安装成功，点击确定，然后会自动跳转到主页面
 8. 点击启动游戏即可<br>![截图_org jackhuang hmcl Launcher_20240727221023](https://github.com/user-attachments/assets/93362aaa-1c51-4edc-81a2-2b391b8ed50e)
-
-
-
